@@ -1,14 +1,15 @@
 {
-    "name": "masnathan/blade-assets",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "André Filipe",
-            "email": "andre.r.flip@gmail.com"
-        }
-    ],
-    "require": {
-        "illuminate/support": "^5.3"
+  "name": "masnathan/blade-assets",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "André Filipe",
+      "email": "andre.r.flip@gmail.com"
     }
+  ],
+  "require": {
+    "illuminate/support": "^5.3"
+  },
+  "minimum-stability": "dev"
 }
